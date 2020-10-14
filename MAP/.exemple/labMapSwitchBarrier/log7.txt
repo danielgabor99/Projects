@@ -1,0 +1,4170 @@
+ExeStack:
+[(Ref(int) v1;(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))))))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v1]
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3)))))))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v1]
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3)))))))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3)))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3)))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v2]
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v2]
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v3]
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v3]
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[newH(v1, 2)]
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[newH(v1, 2)]
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[newH(v2, 3)]
+[(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[newH(v2, 3)]
+[(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[(newH(v3, 4);(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[newH(v3, 4)]
+[(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[newH(v3, 4)]
+[(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.newBarrier@3f5180da;(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.newBarrier@3f5180da]
+[(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3)))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.newBarrier@3f5180da]
+[(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3)))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3)))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3)))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))))]
+[(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1)))))]
+[(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1))))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@22f34275;print(wH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@48b21a7f;(wH(v1, wH(v1)*10);print(wH(v1))))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))))]
+[(Model.await@22f34275;print(wH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@48b21a7f]
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))))]
+[(Model.await@22f34275;print(wH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@48b21a7f]
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@22f34275;print(wH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@5313e04c]
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1)))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@22f34275;print(wH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@5313e04c]
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@4c9c38de;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1)))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@22f34275]
+[print(wH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@4c9c38de]
+[(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@22f34275]
+[print(wH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@4c9c38de]
+[(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[print(wH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[wH(v1, wH(v1)*10)]
+[print(wH(v1))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Ref(int) v1;(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v1]
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v1]
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v2]
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v2]
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v3]
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v3]
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[newH(v1, 2)]
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[newH(v1, 2)]
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[newH(v2, 3)]
+[(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[newH(v2, 3)]
+[(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[newH(v3, 4)]
+[(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[newH(v3, 4)]
+[(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.newBarrier@2c7588b1]
+[(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.newBarrier@2c7588b1]
+[(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))))]
+[(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))))]
+[(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1))))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1))))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))))]
+[(Model.await@1dc40a7f;print(wH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@3cac6125]
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))))]
+[(Model.await@1dc40a7f;print(wH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@3cac6125]
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@1dc40a7f;print(wH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@498f2d41]
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1)))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@1dc40a7f;print(wH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@498f2d41]
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1)))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@1dc40a7f]
+[print(wH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@2e5cd7dc]
+[(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@1dc40a7f]
+[print(wH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@2e5cd7dc]
+[(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[print(wH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[wH(v1, wH(v1)*10)]
+[print(wH(v1))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Ref(int) v1;(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v1]
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v1]
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v2]
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v2]
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v3]
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v3]
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[newH(v1, 2)]
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[newH(v1, 2)]
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[newH(v2, 3)]
+[(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[newH(v2, 3)]
+[(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[(newH(v3, 4);(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[newH(v3, 4)]
+[(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[newH(v3, 4)]
+[(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.newBarrier@2c7588b1;(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.newBarrier@2c7588b1]
+[(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.newBarrier@2c7588b1]
+[(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))));(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3)))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))))]
+[(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1)))))]
+[(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1))))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))));(Model.await@1dc40a7f;print(wH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@3cac6125;(wH(v1, wH(v1)*10);print(wH(v1))))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))))]
+[(Model.await@1dc40a7f;print(wH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@3cac6125]
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))))]
+[(Model.await@1dc40a7f;print(wH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@3cac6125]
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@1dc40a7f;print(wH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@574434a2]
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1)))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@1dc40a7f;print(wH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@574434a2]
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@2e5cd7dc;(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1)))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@1dc40a7f]
+[print(wH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@2e5cd7dc]
+[(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@1dc40a7f]
+[print(wH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v1, wH(v1)*10);print(wH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@2e5cd7dc]
+[(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[print(wH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[wH(v1, wH(v1)*10)]
+[print(wH(v1))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v2, wH(v2)*10);(wH(v2, wH(v2)*10);print(wH(v1))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Ref(int) v1;(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))))))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v1]
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3)))))))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v1]
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3)))))))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3)))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3)))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v2]
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v2]
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v3]
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v3]
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[newH(v1, 2)]
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[newH(v1, 2)]
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[newH(v2, 3)]
+[(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[newH(v2, 3)]
+[(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[(newH(v3, 4);(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[newH(v3, 4)]
+[(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[newH(v3, 4)]
+[(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.newBarrier@5eaaa1e9;(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.newBarrier@5eaaa1e9]
+[(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3)))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.newBarrier@5eaaa1e9]
+[(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3)))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3)))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3)))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))))]
+[(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1)))))]
+[(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1))))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))));(Model.await@7bd445e1;print(rH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@1ed5ac9e;(wH(v1, rH(v1)*10);print(rH(v1))))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))))]
+[(Model.await@7bd445e1;print(rH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@1ed5ac9e]
+[(wH(v1, rH(v1)*10);print(rH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))))]
+[(Model.await@7bd445e1;print(rH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@1ed5ac9e]
+[(wH(v1, rH(v1)*10);print(rH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@7bd445e1;print(rH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@4df95a65]
+[(wH(v1, rH(v1)*10);print(rH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1)))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@7bd445e1;print(rH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@4df95a65]
+[(wH(v1, rH(v1)*10);print(rH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@15e336cb;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1)))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@7bd445e1]
+[print(rH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v1, rH(v1)*10);print(rH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@15e336cb]
+[(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@7bd445e1]
+[print(rH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v1, rH(v1)*10);print(rH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@15e336cb]
+[(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[print(rH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[wH(v1, rH(v1)*10)]
+[print(rH(v1))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[print(rH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[wH(v1, rH(v1)*10)]
+[print(rH(v1))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v1))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack: empty
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[print(rH(v1))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[wH(v2, rH(v2)*10)]
+[(wH(v2, rH(v2)*10);print(rH(v1)))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[print(rH(v1))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[wH(v2, rH(v2)*10)]
+[(wH(v2, rH(v2)*10);print(rH(v1)))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack: empty
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 20 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 30]
+[3 -> 4]
+
+ExeStack:
+[(wH(v2, rH(v2)*10);print(rH(v1)))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 20 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 30]
+[3 -> 4]
+
+ExeStack:
+[(wH(v2, rH(v2)*10);print(rH(v1)))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 20 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 30]
+[3 -> 4]
+
+ExeStack:
+[wH(v2, rH(v2)*10)]
+[print(rH(v1))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 20 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 30]
+[3 -> 4]
+
+ExeStack:
+[wH(v2, rH(v2)*10)]
+[print(rH(v1))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 20 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 30]
+[3 -> 4]
+
+ExeStack:
+[print(rH(v1))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 20 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 300]
+[3 -> 4]
+
+ExeStack:
+[print(rH(v1))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 20 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 300]
+[3 -> 4]
+
+ExeStack: empty
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 20 20 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 300]
+[3 -> 4]
+
+ExeStack:
+[(Ref(int) v1;(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))))))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v1]
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3)))))))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v1]
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3)))))))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3)))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v2;(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3)))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v2]
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v2]
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(Ref(int) v3;(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v3]
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[Ref(int) v3]
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(newH(v1, 2);(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3)))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[newH(v1, 2)]
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[newH(v1, 2)]
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (0 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[(newH(v2, 3);(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[newH(v2, 3)]
+[(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[newH(v2, 3)]
+[(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (0 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+
+ExeStack:
+[(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[(newH(v3, 4);(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3)))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[newH(v3, 4)]
+[(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[newH(v3, 4)]
+[(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (0 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+
+ExeStack:
+[(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.newBarrier@3f0aa1d4;(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.newBarrier@3f0aa1d4]
+[(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3)))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.newBarrier@3f0aa1d4]
+[(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3)))))]
+id=1
+SymbTable:
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3)))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))));(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3)))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))))]
+[(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1)))))]
+[(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1))))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))));(Model.await@e7a960d;print(rH(v3))))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@7eb88b92;(wH(v1, rH(v1)*10);print(rH(v1))))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))))]
+[(Model.await@e7a960d;print(rH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@7eb88b92]
+[(wH(v1, rH(v1)*10);print(rH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[fork((Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))))]
+[(Model.await@e7a960d;print(rH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@7eb88b92]
+[(wH(v1, rH(v1)*10);print(rH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@e7a960d;print(rH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@3ba79ae9]
+[(wH(v1, rH(v1)*10);print(rH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2)))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@e7a960d;print(rH(v3)))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@3ba79ae9]
+[(wH(v1, rH(v1)*10);print(rH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(Model.await@58e05e7a;(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2)))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@e7a960d]
+[print(rH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v1, rH(v1)*10);print(rH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@58e05e7a]
+[(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@e7a960d]
+[print(rH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v1, rH(v1)*10);print(rH(v1)))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[Model.await@58e05e7a]
+[(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[print(rH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[wH(v1, rH(v1)*10)]
+[print(rH(v1))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[print(rH(v3))]
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[wH(v1, rH(v1)*10)]
+[print(rH(v1))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[(wH(v2, rH(v2)*10);(wH(v2, rH(v2)*10);print(rH(v2))))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+FileTable:
+Heap:
+[1 -> 2]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack: empty
+id=1
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[print(rH(v1))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[wH(v2, rH(v2)*10)]
+[(wH(v2, rH(v2)*10);print(rH(v2)))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[print(rH(v1))]
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack:
+[wH(v2, rH(v2)*10)]
+[(wH(v2, rH(v2)*10);print(rH(v2)))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 3]
+[3 -> 4]
+
+ExeStack: empty
+id=2
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 20 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 30]
+[3 -> 4]
+
+ExeStack:
+[(wH(v2, rH(v2)*10);print(rH(v2)))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 20 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 30]
+[3 -> 4]
+
+ExeStack:
+[(wH(v2, rH(v2)*10);print(rH(v2)))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 20 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 30]
+[3 -> 4]
+
+ExeStack:
+[wH(v2, rH(v2)*10)]
+[print(rH(v2))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 20 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 30]
+[3 -> 4]
+
+ExeStack:
+[wH(v2, rH(v2)*10)]
+[print(rH(v2))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 20 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 30]
+[3 -> 4]
+
+ExeStack:
+[print(rH(v2))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 20 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 300]
+[3 -> 4]
+
+ExeStack:
+[print(rH(v2))]
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 20 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 300]
+[3 -> 4]
+
+ExeStack: empty
+id=3
+SymbTable:
+[cnt -> 1]
+[v1 -> (1 int)]
+[v2 -> (2 int)]
+[v3 -> (3 int)]
+Out:
+4 20 300 
+FileTable:
+Heap:
+[1 -> 20]
+[2 -> 300]
+[3 -> 4]
+

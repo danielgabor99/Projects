@@ -1,0 +1,1078 @@
+ExeStack:
+[(int v;(v=4;(Model.WhileStmt@22927a81;print(v))))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[int v]
+[(v=4;(Model.WhileStmt@22927a81;print(v)))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(v=4;(Model.WhileStmt@22927a81;print(v)))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=4]
+[(Model.WhileStmt@22927a81;print(v))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(Model.WhileStmt@22927a81;print(v))]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@22927a81]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(int v;(v=4;(Model.WhileStmt@22927a81;print(v))))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[int v]
+[(v=4;(Model.WhileStmt@22927a81;print(v)))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(v=4;(Model.WhileStmt@22927a81;print(v)))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=4]
+[(Model.WhileStmt@22927a81;print(v))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(Model.WhileStmt@22927a81;print(v))]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@22927a81]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(int v;(v=4;(Model.WhileStmt@1ed4004b;print(v))))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[int v]
+[(v=4;(Model.WhileStmt@1ed4004b;print(v)))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(v=4;(Model.WhileStmt@1ed4004b;print(v)))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=4]
+[(Model.WhileStmt@1ed4004b;print(v))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(Model.WhileStmt@1ed4004b;print(v))]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@1ed4004b]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(int v;(v=4;(Model.WhileStmt@1ed4004b;print(v))))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[int v]
+[(v=4;(Model.WhileStmt@1ed4004b;print(v)))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(v=4;(Model.WhileStmt@1ed4004b;print(v)))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=4]
+[(Model.WhileStmt@1ed4004b;print(v))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(Model.WhileStmt@1ed4004b;print(v))]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@1ed4004b]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(int v;(v=4;(Model.WhileStmt@1ed4004b;print(v))))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[int v]
+[(v=4;(Model.WhileStmt@1ed4004b;print(v)))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(v=4;(Model.WhileStmt@1ed4004b;print(v)))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=4]
+[(Model.WhileStmt@1ed4004b;print(v))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(Model.WhileStmt@1ed4004b;print(v))]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@1ed4004b]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(int v;(v=4;(Model.WhileStmt@66480dd7;print(v))))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[int v]
+[(v=4;(Model.WhileStmt@66480dd7;print(v)))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(v=4;(Model.WhileStmt@66480dd7;print(v)))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=4]
+[(Model.WhileStmt@66480dd7;print(v))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(Model.WhileStmt@66480dd7;print(v))]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@66480dd7]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(int v;(v=4;(Model.WhileStmt@1ed4004b;print(v))))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[int v]
+[(v=4;(Model.WhileStmt@1ed4004b;print(v)))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(v=4;(Model.WhileStmt@1ed4004b;print(v)))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=4]
+[(Model.WhileStmt@1ed4004b;print(v))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(Model.WhileStmt@1ed4004b;print(v))]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@1ed4004b]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(int v;(v=4;(Model.WhileStmt@1ed4004b;print(v))))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[int v]
+[(v=4;(Model.WhileStmt@1ed4004b;print(v)))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(v=4;(Model.WhileStmt@1ed4004b;print(v)))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=4]
+[(Model.WhileStmt@1ed4004b;print(v))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(Model.WhileStmt@1ed4004b;print(v))]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@1ed4004b]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(int v;(v=4;(Model.WhileStmt@21213b92;print(v))))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[int v]
+[(v=4;(Model.WhileStmt@21213b92;print(v)))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(v=4;(Model.WhileStmt@21213b92;print(v)))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=4]
+[(Model.WhileStmt@21213b92;print(v))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(Model.WhileStmt@21213b92;print(v))]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@21213b92]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(int v;(v=4;(Model.WhileStmt@1ed4004b;print(v))))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[int v]
+[(v=4;(Model.WhileStmt@1ed4004b;print(v)))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(v=4;(Model.WhileStmt@1ed4004b;print(v)))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=4]
+[(Model.WhileStmt@1ed4004b;print(v))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(Model.WhileStmt@1ed4004b;print(v))]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@1ed4004b]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(int v;(v=4;(Model.WhileStmt@1ed4004b;print(v))))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[int v]
+[(v=4;(Model.WhileStmt@1ed4004b;print(v)))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(v=4;(Model.WhileStmt@1ed4004b;print(v)))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=4]
+[(Model.WhileStmt@1ed4004b;print(v))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(Model.WhileStmt@1ed4004b;print(v))]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@1ed4004b]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(int v;(v=4;(Model.WhileStmt@1ed4004b;print(v))))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[int v]
+[(v=4;(Model.WhileStmt@1ed4004b;print(v)))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(v=4;(Model.WhileStmt@1ed4004b;print(v)))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=4]
+[(Model.WhileStmt@1ed4004b;print(v))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(Model.WhileStmt@1ed4004b;print(v))]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@1ed4004b]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(print(v);v=v-1)]
+[Model.WhileStmt@4d50efb8]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[print(v)]
+[v=v-1]
+[Model.WhileStmt@4d50efb8]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=v-1]
+[Model.WhileStmt@4d50efb8]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+4 
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@4d50efb8]
+[print(v)]
+SymbTable:
+[v -> 3]
+Out:
+4 
+FileTable:
+
+Heap:
+
+ExeStack:
+[(print(v);v=v-1)]
+[Model.WhileStmt@36b4cef0]
+[print(v)]
+SymbTable:
+[v -> 3]
+Out:
+4 
+FileTable:
+
+Heap:
+
+ExeStack:
+[print(v)]
+[v=v-1]
+[Model.WhileStmt@36b4cef0]
+[print(v)]
+SymbTable:
+[v -> 3]
+Out:
+4 
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=v-1]
+[Model.WhileStmt@36b4cef0]
+[print(v)]
+SymbTable:
+[v -> 3]
+Out:
+4 3 
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@36b4cef0]
+[print(v)]
+SymbTable:
+[v -> 2]
+Out:
+4 3 
+FileTable:
+
+Heap:
+
+ExeStack:
+[(print(v);v=v-1)]
+[Model.WhileStmt@fad74ee]
+[print(v)]
+SymbTable:
+[v -> 2]
+Out:
+4 3 
+FileTable:
+
+Heap:
+
+ExeStack:
+[print(v)]
+[v=v-1]
+[Model.WhileStmt@fad74ee]
+[print(v)]
+SymbTable:
+[v -> 2]
+Out:
+4 3 
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=v-1]
+[Model.WhileStmt@fad74ee]
+[print(v)]
+SymbTable:
+[v -> 2]
+Out:
+4 3 2 
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@fad74ee]
+[print(v)]
+SymbTable:
+[v -> 1]
+Out:
+4 3 2 
+FileTable:
+
+Heap:
+
+ExeStack:
+[(print(v);v=v-1)]
+[Model.WhileStmt@1a1d6a08]
+[print(v)]
+SymbTable:
+[v -> 1]
+Out:
+4 3 2 
+FileTable:
+
+Heap:
+
+ExeStack:
+[(int v;(v=4;(Model.WhileStmt@22927a81;print(v))))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[int v]
+[(v=4;(Model.WhileStmt@22927a81;print(v)))]
+SymbTable:
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(v=4;(Model.WhileStmt@22927a81;print(v)))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=4]
+[(Model.WhileStmt@22927a81;print(v))]
+SymbTable:
+[v -> 0]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(Model.WhileStmt@22927a81;print(v))]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@22927a81]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[(print(v);v=v-1)]
+[Model.WhileStmt@606d8acf]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[print(v)]
+[v=v-1]
+[Model.WhileStmt@606d8acf]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=v-1]
+[Model.WhileStmt@606d8acf]
+[print(v)]
+SymbTable:
+[v -> 4]
+Out:
+4 
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@606d8acf]
+[print(v)]
+SymbTable:
+[v -> 3]
+Out:
+4 
+FileTable:
+
+Heap:
+
+ExeStack:
+[(print(v);v=v-1)]
+[Model.WhileStmt@65ae6ba4]
+[print(v)]
+SymbTable:
+[v -> 3]
+Out:
+4 
+FileTable:
+
+Heap:
+
+ExeStack:
+[print(v)]
+[v=v-1]
+[Model.WhileStmt@65ae6ba4]
+[print(v)]
+SymbTable:
+[v -> 3]
+Out:
+4 
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=v-1]
+[Model.WhileStmt@65ae6ba4]
+[print(v)]
+SymbTable:
+[v -> 3]
+Out:
+4 3 
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@65ae6ba4]
+[print(v)]
+SymbTable:
+[v -> 2]
+Out:
+4 3 
+FileTable:
+
+Heap:
+
+ExeStack:
+[(print(v);v=v-1)]
+[Model.WhileStmt@48cf768c]
+[print(v)]
+SymbTable:
+[v -> 2]
+Out:
+4 3 
+FileTable:
+
+Heap:
+
+ExeStack:
+[print(v)]
+[v=v-1]
+[Model.WhileStmt@48cf768c]
+[print(v)]
+SymbTable:
+[v -> 2]
+Out:
+4 3 
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=v-1]
+[Model.WhileStmt@48cf768c]
+[print(v)]
+SymbTable:
+[v -> 2]
+Out:
+4 3 2 
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@48cf768c]
+[print(v)]
+SymbTable:
+[v -> 1]
+Out:
+4 3 2 
+FileTable:
+
+Heap:
+
+ExeStack:
+[(print(v);v=v-1)]
+[Model.WhileStmt@59f95c5d]
+[print(v)]
+SymbTable:
+[v -> 1]
+Out:
+4 3 2 
+FileTable:
+
+Heap:
+
+ExeStack:
+[print(v)]
+[v=v-1]
+[Model.WhileStmt@59f95c5d]
+[print(v)]
+SymbTable:
+[v -> 1]
+Out:
+4 3 2 
+FileTable:
+
+Heap:
+
+ExeStack:
+[v=v-1]
+[Model.WhileStmt@59f95c5d]
+[print(v)]
+SymbTable:
+[v -> 1]
+Out:
+4 3 2 1 
+FileTable:
+
+Heap:
+
+ExeStack:
+[Model.WhileStmt@59f95c5d]
+[print(v)]
+SymbTable:
+[v -> 0]
+Out:
+4 3 2 1 
+FileTable:
+
+Heap:
+
+ExeStack:
+[print(v)]
+SymbTable:
+[v -> 0]
+Out:
+4 3 2 1 
+FileTable:
+
+Heap:
+
+ExeStack: empty
+SymbTable:
+[v -> 0]
+Out:
+4 3 2 1 0 
+FileTable:
+
+Heap:
+

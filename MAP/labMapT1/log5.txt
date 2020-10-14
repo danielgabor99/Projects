@@ -1,0 +1,2064 @@
+ExeStack:
+[(bool a;(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[bool a]
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[bool a]
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v]
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v]
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[a=true]
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[a=true]
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF(a) THEN(v=2)ELSE(v=3)]
+[print(v)]
+id=1
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF(a) THEN(v=2)ELSE(v=3)]
+[print(v)]
+id=1
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[print(v)]
+id=1
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[print(v)]
+id=1
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack: empty
+id=1
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(bool a;(int v;(a=false;(IF(a) THEN(v=2)ELSE(v=3);print(v)))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[bool a]
+[(int v;(a=false;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[bool a]
+[(int v;(a=false;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v;(a=false;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v;(a=false;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v]
+[(a=false;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v]
+[(a=false;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(a=false;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(a=false;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[a=false]
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[a=false]
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF(a) THEN(v=2)ELSE(v=3)]
+[print(v)]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF(a) THEN(v=2)ELSE(v=3)]
+[print(v)]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[print(v)]
+id=1
+SymbTable:
+[a -> false]
+[v -> 3]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[print(v)]
+id=1
+SymbTable:
+[a -> false]
+[v -> 3]
+Out:
+FileTable:
+Heap:
+
+ExeStack: empty
+id=1
+SymbTable:
+[a -> false]
+[v -> 3]
+Out:
+3 
+FileTable:
+Heap:
+
+ExeStack:
+[(bool a;(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[bool a]
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[bool a]
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v]
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v]
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[a=true]
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[a=true]
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF(a) THEN(v=2)ELSE(v=3)]
+[print(v)]
+id=1
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF(a) THEN(v=2)ELSE(v=3)]
+[print(v)]
+id=1
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[print(v)]
+id=1
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[print(v)]
+id=1
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack: empty
+id=1
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(bool a;(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[bool a]
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[bool a]
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v]
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v]
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[a=true]
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[a=true]
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF(a) THEN(v=2)ELSE(v=3)]
+[print(v)]
+id=1
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF(a) THEN(v=2)ELSE(v=3)]
+[print(v)]
+id=1
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[print(v)]
+id=1
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[print(v)]
+id=1
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack: empty
+id=1
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(bool a;(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[bool a]
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[bool a]
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v]
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v]
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[a=true]
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[a=true]
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=1
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF(a) THEN(v=2)ELSE(v=3)]
+[print(v)]
+id=1
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF(a) THEN(v=2)ELSE(v=3)]
+[print(v)]
+id=1
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[print(v)]
+id=1
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[print(v)]
+id=1
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack: empty
+id=1
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(bool a;(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))))]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[bool a]
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[bool a]
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v]
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v]
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[a=true]
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[a=true]
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF(a) THEN(v=2)ELSE(v=3)]
+[print(v)]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF(a) THEN(v=2)ELSE(v=3)]
+[print(v)]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[print(v)]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[print(v)]
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[string varf]
+[(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file)))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[string varf]
+[(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file)))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file)))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> ]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file)))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> ]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[varf=test.in.txt]
+[(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> ]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[varf=test.in.txt]
+[(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> ]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[open file]
+[(int varc;(read file;(print(varc);(read file;(print(varc);close file)))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[open file]
+[(int varc;(read file;(print(varc);(read file;(print(varc);close file)))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(int varc;(read file;(print(varc);(read file;(print(varc);close file)))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+Out:
+2 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[(int varc;(read file;(print(varc);(read file;(print(varc);close file)))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+Out:
+2 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[int varc]
+[(read file;(print(varc);(read file;(print(varc);close file))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+Out:
+2 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[int varc]
+[(read file;(print(varc);(read file;(print(varc);close file))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+Out:
+2 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[(read file;(print(varc);(read file;(print(varc);close file))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 0]
+Out:
+2 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[(read file;(print(varc);(read file;(print(varc);close file))))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 0]
+Out:
+2 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[read file]
+[(print(varc);(read file;(print(varc);close file)))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 0]
+Out:
+2 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[read file]
+[(print(varc);(read file;(print(varc);close file)))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 0]
+Out:
+2 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[(print(varc);(read file;(print(varc);close file)))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 15]
+Out:
+2 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[(print(varc);(read file;(print(varc);close file)))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 15]
+Out:
+2 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[print(varc)]
+[(read file;(print(varc);close file))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 15]
+Out:
+2 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[print(varc)]
+[(read file;(print(varc);close file))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 15]
+Out:
+2 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[(read file;(print(varc);close file))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 15]
+Out:
+2 15 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[(read file;(print(varc);close file))]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 15]
+Out:
+2 15 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[read file]
+[(print(varc);close file)]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 15]
+Out:
+2 15 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[read file]
+[(print(varc);close file)]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 15]
+Out:
+2 15 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[(print(varc);close file)]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[(print(varc);close file)]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[print(varc)]
+[close file]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[print(varc)]
+[close file]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[close file]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[close file]
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@50df8b9f]
+Heap:
+
+ExeStack:
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[int a]
+[(int b;(a=2+3*5;(b=a+1;print(b))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[int a]
+[(int b;(a=2+3*5;(b=a+1;print(b))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> true]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[(int b;(a=2+3*5;(b=a+1;print(b))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> 0]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[(int b;(a=2+3*5;(b=a+1;print(b))))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> 0]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[int b]
+[(a=2+3*5;(b=a+1;print(b)))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> 0]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[int b]
+[(a=2+3*5;(b=a+1;print(b)))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> 0]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[(a=2+3*5;(b=a+1;print(b)))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> 0]
+[b -> 0]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[(a=2+3*5;(b=a+1;print(b)))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> 0]
+[b -> 0]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[a=2+3*5]
+[(b=a+1;print(b))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> 0]
+[b -> 0]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[a=2+3*5]
+[(b=a+1;print(b))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> 0]
+[b -> 0]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[(b=a+1;print(b))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> 17]
+[b -> 0]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[(b=a+1;print(b))]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> 17]
+[b -> 0]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[b=a+1]
+[print(b)]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> 17]
+[b -> 0]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[b=a+1]
+[print(b)]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> 17]
+[b -> 0]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[print(b)]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> 17]
+[b -> 18]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[print(b)]
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> 17]
+[b -> 18]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 
+FileTable:
+Heap:
+
+ExeStack:
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> 17]
+[b -> 18]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 18 
+FileTable:
+Heap:
+
+ExeStack:
+[(int v;(v=2;print(v)))]
+id=4
+SymbTable:
+[a -> 17]
+[b -> 18]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 18 
+FileTable:
+Heap:
+
+ExeStack:
+[int v]
+[(v=2;print(v))]
+id=4
+SymbTable:
+[a -> 17]
+[b -> 18]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 18 
+FileTable:
+Heap:
+
+ExeStack:
+[int v]
+[(v=2;print(v))]
+id=4
+SymbTable:
+[a -> 17]
+[b -> 18]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 18 
+FileTable:
+Heap:
+
+ExeStack:
+[(v=2;print(v))]
+id=4
+SymbTable:
+[a -> 17]
+[b -> 18]
+[v -> 0]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 18 
+FileTable:
+Heap:
+
+ExeStack:
+[(v=2;print(v))]
+id=4
+SymbTable:
+[a -> 17]
+[b -> 18]
+[v -> 0]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 18 
+FileTable:
+Heap:
+
+ExeStack:
+[v=2]
+[print(v)]
+id=4
+SymbTable:
+[a -> 17]
+[b -> 18]
+[v -> 0]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 18 
+FileTable:
+Heap:
+
+ExeStack:
+[v=2]
+[print(v)]
+id=4
+SymbTable:
+[a -> 17]
+[b -> 18]
+[v -> 0]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 18 
+FileTable:
+Heap:
+
+ExeStack:
+[print(v)]
+id=4
+SymbTable:
+[a -> 17]
+[b -> 18]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 18 
+FileTable:
+Heap:
+
+ExeStack:
+[print(v)]
+id=4
+SymbTable:
+[a -> 17]
+[b -> 18]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 18 
+FileTable:
+Heap:
+
+ExeStack: empty
+id=4
+SymbTable:
+[a -> 17]
+[b -> 18]
+[v -> 2]
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+2 15 50 18 2 
+FileTable:
+Heap:
+

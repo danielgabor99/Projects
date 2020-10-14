@@ -1,0 +1,178 @@
+ExeStack:
+[(bool a;(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))))]
+id=10
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[bool a]
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=10
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[bool a]
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=10
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=10
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v;(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v))))]
+id=10
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v]
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=10
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v]
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=10
+SymbTable:
+[a -> false]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=10
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(a=true;(IF(a) THEN(v=2)ELSE(v=3);print(v)))]
+id=10
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[a=true]
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=10
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[a=true]
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=10
+SymbTable:
+[a -> false]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=10
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(IF(a) THEN(v=2)ELSE(v=3);print(v))]
+id=10
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF(a) THEN(v=2)ELSE(v=3)]
+[print(v)]
+id=10
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF(a) THEN(v=2)ELSE(v=3)]
+[print(v)]
+id=10
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[print(v)]
+id=10
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[print(v)]
+id=10
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack: empty
+id=10
+SymbTable:
+[a -> true]
+[v -> 0]
+Out:
+0 
+FileTable:
+Heap:
+

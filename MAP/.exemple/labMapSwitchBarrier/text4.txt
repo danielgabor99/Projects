@@ -1,0 +1,336 @@
+ExeStack:
+[(string varf;(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))))]
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[string varf]
+[(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file)))))))]
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[string varf]
+[(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file)))))))]
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file)))))))]
+SymbTable:
+[varf -> ]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(varf=test.in.txt;(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file)))))))]
+SymbTable:
+[varf -> ]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[varf=test.in.txt]
+[(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))]
+SymbTable:
+[varf -> ]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[varf=test.in.txt]
+[(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))]
+SymbTable:
+[varf -> ]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))]
+SymbTable:
+[varf -> test.in.txt]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(open file;(int varc;(read file;(print(varc);(read file;(print(varc);close file))))))]
+SymbTable:
+[varf -> test.in.txt]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[open file]
+[(int varc;(read file;(print(varc);(read file;(print(varc);close file)))))]
+SymbTable:
+[varf -> test.in.txt]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[open file]
+[(int varc;(read file;(print(varc);(read file;(print(varc);close file)))))]
+SymbTable:
+[varf -> test.in.txt]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int varc;(read file;(print(varc);(read file;(print(varc);close file)))))]
+SymbTable:
+[varf -> test.in.txt]
+Out:
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[(int varc;(read file;(print(varc);(read file;(print(varc);close file)))))]
+SymbTable:
+[varf -> test.in.txt]
+Out:
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[int varc]
+[(read file;(print(varc);(read file;(print(varc);close file))))]
+SymbTable:
+[varf -> test.in.txt]
+Out:
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[int varc]
+[(read file;(print(varc);(read file;(print(varc);close file))))]
+SymbTable:
+[varf -> test.in.txt]
+Out:
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[(read file;(print(varc);(read file;(print(varc);close file))))]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 0]
+Out:
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[(read file;(print(varc);(read file;(print(varc);close file))))]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 0]
+Out:
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[read file]
+[(print(varc);(read file;(print(varc);close file)))]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 0]
+Out:
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[read file]
+[(print(varc);(read file;(print(varc);close file)))]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 0]
+Out:
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[(print(varc);(read file;(print(varc);close file)))]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 15]
+Out:
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[(print(varc);(read file;(print(varc);close file)))]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 15]
+Out:
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[print(varc)]
+[(read file;(print(varc);close file))]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 15]
+Out:
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[print(varc)]
+[(read file;(print(varc);close file))]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 15]
+Out:
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[(read file;(print(varc);close file))]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 15]
+Out:
+15 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[(read file;(print(varc);close file))]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 15]
+Out:
+15 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[read file]
+[(print(varc);close file)]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 15]
+Out:
+15 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[read file]
+[(print(varc);close file)]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 15]
+Out:
+15 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[(print(varc);close file)]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+15 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[(print(varc);close file)]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+15 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[print(varc)]
+[close file]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+15 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[print(varc)]
+[close file]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+15 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[close file]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+15 50 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack:
+[close file]
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+15 50 
+FileTable:
+[test.in.txt -> java.io.BufferedReader@2a098129]
+Heap:
+
+ExeStack: empty
+SymbTable:
+[varf -> test.in.txt]
+[varc -> 50]
+Out:
+15 50 
+FileTable:
+Heap:
+

@@ -1,0 +1,705 @@
+ExeStack:
+[(int v1;(v1=2;(int v2;(v2=3;IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v1]
+[(v1=2;(int v2;(v2=3;IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1)))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v1]
+[(v1=2;(int v2;(v2=3;IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1)))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(v1=2;(int v2;(v2=3;IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1)))))]
+id=1
+SymbTable:
+[v1 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(v1=2;(int v2;(v2=3;IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1)))))]
+id=1
+SymbTable:
+[v1 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[v1=2]
+[(int v2;(v2=3;IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1))))]
+id=1
+SymbTable:
+[v1 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[v1=2]
+[(int v2;(v2=3;IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1))))]
+id=1
+SymbTable:
+[v1 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v2;(v2=3;IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1))))]
+id=1
+SymbTable:
+[v1 -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v2;(v2=3;IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1))))]
+id=1
+SymbTable:
+[v1 -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v2]
+[(v2=3;IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1)))]
+id=1
+SymbTable:
+[v1 -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v2]
+[(v2=3;IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1)))]
+id=1
+SymbTable:
+[v1 -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(v2=3;IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1)))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(v2=3;IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1)))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[v2=3]
+[IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[v2=3]
+[IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF(v1) THEN(print(Model.Exp.Mul@e51ed08))ELSE(print(v1))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+FileTable:
+Heap:
+
+ExeStack: empty
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v1;(v1=2;(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v1]
+[(v1=2;(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1)))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v1]
+[(v1=2;(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1)))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(v1=2;(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1)))))]
+id=1
+SymbTable:
+[v1 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(v1=2;(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1)))))]
+id=1
+SymbTable:
+[v1 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[v1=2]
+[(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))))]
+id=1
+SymbTable:
+[v1 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[v1=2]
+[(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))))]
+id=1
+SymbTable:
+[v1 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))))]
+id=1
+SymbTable:
+[v1 -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))))]
+id=1
+SymbTable:
+[v1 -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v2]
+[(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1)))]
+id=1
+SymbTable:
+[v1 -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v2]
+[(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1)))]
+id=1
+SymbTable:
+[v1 -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1)))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1)))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[v2=3]
+[IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[v2=3]
+[IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+FileTable:
+Heap:
+
+ExeStack: empty
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(int v1;(v1=2;(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))))))]
+id=2
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[int v1]
+[(v1=2;(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1)))))]
+id=2
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[int v1]
+[(v1=2;(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1)))))]
+id=2
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(v1=2;(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1)))))]
+id=2
+SymbTable:
+[v1 -> 0]
+[v2 -> 3]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(v1=2;(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1)))))]
+id=2
+SymbTable:
+[v1 -> 0]
+[v2 -> 3]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[v1=2]
+[(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))))]
+id=2
+SymbTable:
+[v1 -> 0]
+[v2 -> 3]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[v1=2]
+[(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))))]
+id=2
+SymbTable:
+[v1 -> 0]
+[v2 -> 3]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))))]
+id=2
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(int v2;(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))))]
+id=2
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[int v2]
+[(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1)))]
+id=2
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[int v2]
+[(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1)))]
+id=2
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1)))]
+id=2
+SymbTable:
+[v1 -> 2]
+[v2 -> 0]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(v2=3;IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1)))]
+id=2
+SymbTable:
+[v1 -> 2]
+[v2 -> 0]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[v2=3]
+[IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))]
+id=2
+SymbTable:
+[v1 -> 2]
+[v2 -> 0]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[v2=3]
+[IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))]
+id=2
+SymbTable:
+[v1 -> 2]
+[v2 -> 0]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[IF((v1==0)) THEN(print(Model.Exp.Mul@1c50efed))ELSE(print(v1))]
+id=2
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+2 
+FileTable:
+Heap:
+
+ExeStack:
+[(int v1;(v1=2;(int v2;(v2=3;IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1))))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v1]
+[(v1=2;(int v2;(v2=3;IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1)))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v1]
+[(v1=2;(int v2;(v2=3;IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1)))))]
+id=1
+SymbTable:
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(v1=2;(int v2;(v2=3;IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1)))))]
+id=1
+SymbTable:
+[v1 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(v1=2;(int v2;(v2=3;IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1)))))]
+id=1
+SymbTable:
+[v1 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[v1=2]
+[(int v2;(v2=3;IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1))))]
+id=1
+SymbTable:
+[v1 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[v1=2]
+[(int v2;(v2=3;IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1))))]
+id=1
+SymbTable:
+[v1 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v2;(v2=3;IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1))))]
+id=1
+SymbTable:
+[v1 -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(int v2;(v2=3;IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1))))]
+id=1
+SymbTable:
+[v1 -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v2]
+[(v2=3;IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1)))]
+id=1
+SymbTable:
+[v1 -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[int v2]
+[(v2=3;IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1)))]
+id=1
+SymbTable:
+[v1 -> 2]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(v2=3;IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1)))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[(v2=3;IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1)))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[v2=3]
+[IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[v2=3]
+[IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 0]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+FileTable:
+Heap:
+
+ExeStack:
+[IF((v1!=0)) THEN(print(Model.Exp.Mul@39e3cdd4))ELSE(print(v1))]
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+FileTable:
+Heap:
+
+ExeStack: empty
+id=1
+SymbTable:
+[v1 -> 2]
+[v2 -> 3]
+Out:
+1 
+FileTable:
+Heap:
+
