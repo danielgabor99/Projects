@@ -1,0 +1,2 @@
+(defun removeoccu(l)
+(removemax l (mymax l 0)))

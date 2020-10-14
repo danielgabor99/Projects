@@ -1,0 +1,15 @@
+;Write a function which returns the product of numerical even atoms from a list, to any level.
+
+;product(l list)
+;	1, if l is empty
+;	car l*product(cdr l), if car l is even and a number
+;	continue, if car l is an atom
+;	product(car l) * product (cdr l), if car l is list
+
+(defun product(l)
+(cond
+((null l) 1)
+((and(numberp (car l)) (= (mod (car l) 2) 0)) (* (car l) (product (cdr l))))
+((atom (car l)) (product (cdr l)))
+((listp l) (* (product (car l)) (product (cdr l)))) 
+))

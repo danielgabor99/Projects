@@ -1,0 +1,15 @@
+;12. Write a function that substitutes an element through another one at all levels of a given list.
+;f(l,e,a)   {    nil, if l is empty
+;                f(l1,e,a) U f(l2..ln,e,a), if l1 is list
+;                a U f(l2...ln,e,a), if l1 is equal to e
+;                l1 U f(l2...ln,e,a),otherwise
+;l-the list
+;e-the element that we are searching
+;a-the change element
+
+(defun f(l e a)
+(cond
+((null l) nil)
+((listp (car l)) (cons (f (car l) e a) (f (cdr l) e a)))
+((equal (car l) e) (cons a (f (cdr l) e a)))
+(t(cons (car l) (f (cdr l) e a)))))

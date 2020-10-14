@@ -1,0 +1,4 @@
+;Remove all occurrences of a maximum numerical element from a nonlinear list
+
+(defun removeoccu(l)
+(removemax l (mymax l 0)))

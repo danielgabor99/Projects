@@ -1,0 +1,17 @@
+;b) Write a function to test if a linear list of numbers has a "mountain" aspect (a list has a "mountain"
+;aspect if the items increase to a certain point and then decreases.
+
+;munte( l list, increasing boolean)
+;	T or nil, if l length is 1
+;	nil, if T increasing in nil and the list is stil increasing
+;	munte( cdr l, nil), when the list stops increasing
+;	continue, otherwise
+
+(defun munte (l increasing)
+	(cond
+		((= (list-length l) 1) (if increasing nil T))
+		((and (< (car l) (cadr l)) (not increasing)) nil)
+		((and (> (car l) (cadr l)) increasing) (munte (cdr l) nil))
+		(T (munte (cdr l) increasing))
+	)
+)

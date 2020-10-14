@@ -1,0 +1,5 @@
+(defun cmmmclist(l m)
+  (cond
+   ((null l) m)
+   ((cmmmclist (cdr l) (cmmmc (car l) m)))
+))

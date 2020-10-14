@@ -1,0 +1,6 @@
+(defun mymax(l m)
+(cond
+((null l) m)
+((and (numberp (car l)) (> (car l) m)) (mymax (cdr l) (car l)))
+((listp (car l)) (mymax (car l) m))
+(t(mymax (cdr l) m))))

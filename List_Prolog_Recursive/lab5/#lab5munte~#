@@ -1,0 +1,8 @@
+(defun _mountain (l decreasing)
+	(cond
+		((= (list-length l) 1) (if decreasing nil T))
+		((and (< (car l) (cadr l)) (not decreasing)) nil)
+		((and (> (car l) (cadr l)) decreasing) (_mountain (cdr l) nil))
+		(T (_mountain (cdr l) decreasing))
+	)
+)

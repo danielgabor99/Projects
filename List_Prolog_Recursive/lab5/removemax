@@ -1,0 +1,14 @@
+;removemax(l list m integer)
+;	nil, if list is empty
+;	removemax(cdr l) m, if car l is number and = m
+;	removemax(car l) m U  removemax(cdr l), if car l is list
+;	(car l) U removemax(cdr l,m), otherwise
+
+
+(defun removemax(l m)
+(cond
+((null l) nil)
+((and (numberp (car l)) (= m (car l))) (removemax (cdr l) m))
+((listp (car l))(cons (removemax (car l) m) (removemax (cdr l) m)))
+(t (cons (car l) (removemax (cdr l) m)))
+))

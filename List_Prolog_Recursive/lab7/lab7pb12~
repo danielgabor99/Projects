@@ -1,0 +1,6 @@
+(defun f(l e a)
+(cond
+((null l) nil)
+((listp (car l)) (cons (f (car l) e a) (f (cdr l) e a)))
+((equal (car l) e) (cons a (f (cdr l) e a)))
+(t(cons (car l) (f (cdr l) e a)))))

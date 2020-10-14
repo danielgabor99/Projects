@@ -1,0 +1,17 @@
+;12. Write a function that substitutes an element through another one at all levels of a given list.
+;f(l,e,r)   {    
+;           
+;                r, if l is equal to e
+;		 f (l e r) , if l is list
+;                l,otherwise
+;l-the list
+;e-the element that we are searching
+;r-the change element
+
+(defun f2 (l e r)
+    (cond
+        ((equal l e) r)
+        ((listp l) (mapcar #'(lambda (a) (f2 a e r)) l))
+        (t l)
+    )
+)

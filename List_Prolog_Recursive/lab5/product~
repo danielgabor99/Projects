@@ -1,0 +1,7 @@
+(defun product(l)
+(cond
+((null l) 1)
+((and(numberp (car l)) (= (mod (car l) 2) 0)) (* (car l) (product (cdr l))))
+((atom (car l)) (product (cdr l)))
+((listp l) (* (product (car l)) (product (cdr l)))) 
+))

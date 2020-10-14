@@ -1,0 +1,7 @@
+(defun removemax(l m)
+(cond
+((null l) nil)
+((and (numberp (car l)) (= m (car l))) (removemax (cdr l) m))
+((listp (car l))(cons (removemax (car l) m) (removemax (car l) m)))
+(t (cons (car l) (removemax (cdr l) m)))
+))

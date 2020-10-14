@@ -1,0 +1,8 @@
+(defun munte (l increasing)
+	(cond
+		((= (list-length l) 1) (if increasing nil T))
+		((and (< (car l) (cadr l)) (not increasing)) nil)
+		((and (> (car l) (cadr l)) increasing) (munte (cdr l) nil))
+		(T (munte (cdr l) increasing))
+	)
+)

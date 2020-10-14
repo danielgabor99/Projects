@@ -1,0 +1,3 @@
+;cmmmc of 2 numbers
+(defun cmmmc(e1 e2)
+(/ (* e1 e2) (cmmdc e1 e2))) 
