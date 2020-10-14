@@ -1,0 +1,6 @@
+rootProject.name = 'lab1'
+include 'data'
+include 'bookstore-core'
+include 'bookstore-web'
+include 'bookstore-client'
+

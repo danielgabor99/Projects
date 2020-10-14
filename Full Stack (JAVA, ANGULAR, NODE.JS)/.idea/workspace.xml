@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="847dafad-be6d-4699-a828-754d5c4035af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/webapp/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/protractor.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/report.20200510.201008.13212.0.001.json" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/report.20200510.201008.13212.0.001.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/books/book-list/book-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/books/book-list/book-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/books/book-list/book-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/books/book-list/book-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/books/books.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/books/books.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/books/books.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/books/books.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/books/shared/book.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/books/shared/book.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/clients/client-list/client-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/clients/client-list/client-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/clients/client-list/client-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/clients/clients.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/clients/clients.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/clients/clients.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/clients/shared/client.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/clients/shared/client.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/orders/orders-list/orders-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/orders/orders-list/orders-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/orders/orders-list/orders-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/orders/orders.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/orders/orders.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/orders/orders.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/orders/shared/orders-model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/orders/shared/orders.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/students/shared/student.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/students/shared/student.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/students/shared/student.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/students/shared/student.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/students/student-detail/student-detail.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/students/student-detail/student-detail.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/students/student-detail/student-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/students/student-detail/student-detail.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/students/student-detail/student-detail.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/students/student-detail/student-detail.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/students/student-list/student-list.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/students/student-list/student-list.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/students/student-list/student-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/students/student-list/student-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/app/students/students.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/app/students/students.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/typings.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/typings.d.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bookstore3@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bookstore3@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bookstore3@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bookstore3: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bookstore3@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bookstore3: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bookstore3@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bookstore3: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bookstore3@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bookstore3: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/webapp" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1bPgn3f1xcYjmXAyn0JBc6TWkSK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+    <property name="ts.external.directory.path" value="C:\Users\Daniel\Desktop\lab1 - Copy\webapp\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel\gabor_repo\lab1\bookstore-web\src\main\resources\local" />
+      <recent name="C:\Users\Daniel\gabor_repo\lab1\bookstore-web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.34">
+    <configuration name="ClientApp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="springjpa.bookstore.client.ClientApp" />
+      <module name="lab1.bookstore-client.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular Application (webapp)" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 9.0.34" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.34" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : springjpa.lab1 : bookstore-web-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_lab1" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54080" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : springjpa.lab1 : bookstore-web-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server (webapp)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/webapp/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientApp" />
+      <item itemvalue="JavaScript Debug.Angular Application (webapp)" />
+      <item itemvalue="npm.Angular CLI Server (webapp)" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.34" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="847dafad-be6d-4699-a828-754d5c4035af" name="Default Changelist" comment="" />
+      <created>1588539305161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588539305161</updated>
+      <workItem from="1588539321245" duration="5749000" />
+      <workItem from="1588545168227" duration="9276000" />
+      <workItem from="1588602469015" duration="2476000" />
+      <workItem from="1588607275715" duration="15112000" />
+      <workItem from="1588630240708" duration="1272000" />
+      <workItem from="1588662607322" duration="1382000" />
+      <workItem from="1588895990012" duration="2124000" />
+      <workItem from="1589028435010" duration="1635000" />
+      <workItem from="1589055942358" duration="2554000" />
+      <workItem from="1589110735247" duration="1978000" />
+      <workItem from="1589113109501" duration="558000" />
+      <workItem from="1589114051967" duration="5089000" />
+      <workItem from="1589125271710" duration="5633000" />
+      <workItem from="1589263087245" duration="701000" />
+      <workItem from="1589268485494" duration="726000" />
+      <workItem from="1589269428360" duration="776000" />
+      <workItem from="1589272575593" duration="363000" />
+      <workItem from="1589273478656" duration="724000" />
+      <workItem from="1589274830533" duration="1171000" />
+      <workItem from="1589812156650" duration="266000" />
+      <workItem from="1589815085901" duration="461000" />
+      <workItem from="1589872118696" duration="2711000" />
+      <workItem from="1589965072861" duration="6797000" />
+      <workItem from="1589973948156" duration="620000" />
+      <workItem from="1589975005136" duration="599000" />
+      <workItem from="1589979758310" duration="2915000" />
+      <workItem from="1589986857133" duration="150000" />
+      <workItem from="1589987342563" duration="614000" />
+      <workItem from="1589992135399" duration="8612000" />
+      <workItem from="1591641593996" duration="1821000" />
+      <workItem from="1591645465349" duration="657000" />
+      <workItem from="1591647466124" duration="107000" />
+      <workItem from="1591647632555" duration="7294000" />
+      <workItem from="1591681586921" duration="424000" />
+      <workItem from="1594012099465" duration="4820000" />
+      <workItem from="1594017448812" duration="6618000" />
+    </task>
+    <task id="LOCAL-00001" summary="lab 10 terminat">
+      <created>1589028637503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589028637503</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lab 11 terminat">
+      <created>1589315894363</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589315894363</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab 10 terminat" />
+    <MESSAGE value="lab 11 terminat" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 11 terminat" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Auto_Import" timestamp="1588622042351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Auto_Import/0.0.1536.824@0.0.1536.824" timestamp="1588622042351" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1589029040246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589029040246" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589109739525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589109739525" />
+    <state x="191" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1594016155334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="191" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594016155334" />
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588545887636">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1588545887636" />
+    <state x="359" y="70" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1588542457768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="359" y="70" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.824@0.0.1536.824" timestamp="1588542457768" />
+    <state x="115" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594019157291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="115" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594019157291" />
+    <state x="393" y="7" key="CommitChangelistDialog2" timestamp="1589315888405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589315888405" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1591646680039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591646680039" />
+    <state width="1024" height="342" key="GridCell.Tab.0.bottom" timestamp="1594023336559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="342" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594023336559" />
+    <state width="1024" height="342" key="GridCell.Tab.0.center" timestamp="1594023336559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="342" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594023336559" />
+    <state width="1024" height="342" key="GridCell.Tab.0.left" timestamp="1594023336554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="342" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594023336554" />
+    <state width="1024" height="342" key="GridCell.Tab.0.right" timestamp="1594023336559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="342" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594023336559" />
+    <state width="1024" height="342" key="GridCell.Tab.1.bottom" timestamp="1594020535120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="342" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594020535120" />
+    <state width="1024" height="342" key="GridCell.Tab.1.center" timestamp="1594020535120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="342" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594020535120" />
+    <state width="1024" height="342" key="GridCell.Tab.1.left" timestamp="1594020535120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="342" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594020535120" />
+    <state width="1024" height="342" key="GridCell.Tab.1.right" timestamp="1594020535120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="342" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594020535120" />
+    <state width="1024" height="342" key="GridCell.Tab.2.bottom" timestamp="1594020535120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="342" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594020535120" />
+    <state width="1024" height="342" key="GridCell.Tab.2.center" timestamp="1594020535120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="342" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1594020535120" />
+    <state width="1024" height="342" key="GridCell.Tab.2.left" timestamp="1594020535120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="342" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1594020535120" />
+    <state width="1024" height="342" key="GridCell.Tab.2.right" timestamp="1594020535120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="342" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1594020535120" />
+    <state width="1024" height="279" key="GridCell.Tab.3.bottom" timestamp="1588612176075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="279" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588612176075" />
+    <state width="1024" height="279" key="GridCell.Tab.3.center" timestamp="1588612176075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="279" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1588612176075" />
+    <state width="1024" height="279" key="GridCell.Tab.3.left" timestamp="1588612176075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="279" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1588612176075" />
+    <state width="1024" height="279" key="GridCell.Tab.3.right" timestamp="1588612176075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="279" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1588612176075" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1588545628054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588545628054" />
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1589315900758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589315900758" />
+    <state x="94" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1594017448785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="94" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594017448785" />
+    <state x="122" y="171" key="extract.method.dialog" timestamp="1588546314034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="122" y="171" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1588546314034" />
+    <state x="15" y="112" width="738" height="606" key="find.popup" timestamp="1589116863619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="15" y="112" width="738" height="606" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1589116863619" />
+    <state x="209" y="24" key="new project wizard" timestamp="1591645535718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="24" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1591645535718" />
+    <state x="632" y="339" width="348" height="298" key="org.angular.cli.generate" timestamp="1594019081609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="632" y="339" width="348" height="298" key="org.angular.cli.generate/0.0.1536.824@0.0.1536.824" timestamp="1594019081609" />
+    <state x="511" y="42" key="refactoring.ChangeSignatureDialog" timestamp="1588619360992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="42" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1588619360992" />
+  </component>
+</project>
